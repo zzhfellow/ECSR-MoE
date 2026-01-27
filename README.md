@@ -1,4 +1,4 @@
-# ECSR-MoE
+# Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction
 ## Overview
 ![overall framework](overall.jpg)
 ![ECSR-MoE framework](ECSR-MoE.jpg)
