@@ -1,7 +1,7 @@
 # Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction
 ## Overview
 <p align="center">
-  <img src="overall.jpg"   style="width:48%; height:400px; object-fit:contain; margin-right: 10px;" alt="overall framework" />
+  <img src="overall.jpg" style="width:48%; height:400px; object-fit:contain; margin-right:10px;" alt="overall framework" />
   <img src="ECSR-MoE.jpg" style="width:48%; height:400px; object-fit:contain;" alt="ECSR-MoE framework" />
 </p>
 This project contains the code for the paper **Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction**.
