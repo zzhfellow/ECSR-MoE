@@ -1,5 +1,5 @@
 # Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction
-## Overview
+## Overview ##
 <p align="center">
 <table style="width:100%; border:none;">
   <tr>
@@ -12,7 +12,7 @@
   </tr>
 </table>
 </p>
-This project contains the code for the paper **Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction**.
+##This project contains the code for the paper **Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction**.
 
 
 ## Dependencies
