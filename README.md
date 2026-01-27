@@ -1,7 +1,7 @@
 # ECSR-MoE
 ## Overview
 
-This project contains the code for the paper **Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction** published in ACM Transactions on Multimedia (ToMM).
+This project contains the code for the paper **Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction**.
 
 
 ## Dependencies
@@ -30,7 +30,7 @@ You can run the following command to train `&` evaluate the model:
 `python main.py`
 ### Reproduction / Evaluation
 The model weights have been uploaded to Hugging Face (single `.pt` file).
-Manual download link:  https://huggingface.co/zzhfellow/ecsr-moe-pt
+Manual download link:  [https://huggingface.co/zzhfellow/ecsr-moe-pt]
 After downloading, please update the `'pretrained_model_path'` in the `evaluate.py` script to point to the downloaded model file.
 
 ### Run
