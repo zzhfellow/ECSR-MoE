@@ -28,3 +28,11 @@ The dataset is located in data/dataset. Please follow the instructions in [data/
 ## Usage
 You can run the following command to train `&` evaluate the model:  
 `python main.py`
+### Reproduction / Evaluation
+The model weights have been uploaded to Hugging Face (single `.pt` file).
+Manual download link:  https://huggingface.co/zzhfellow/ecsr-moe-pt
+After downloading, please update the `'pretrained_model_path'` in the `evaluate.py` script to point to the downloaded model file.
+
+### Run
+```bash
+python evaluate.py
