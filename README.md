@@ -1,7 +1,7 @@
 # ECSR-MoE
 ## Overview
-![overall framework](overall.pdf)
-![ECSR-MoE framework](ECSR-MoE.pdf)
+![overall framework](overall.jpg)
+![ECSR-MoE framework](ECSR-MoE.jpg)
 This project contains the code for the paper **Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction**.
 
 
