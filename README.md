@@ -12,7 +12,7 @@
   </tr>
 </table>
 </p>
-##This project contains the code for the paper **Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction**.
+**This project contains the code for the paper **Emotion-Conditional Sparse Routed Mixture-of-Experts for Multimodal Emotion-Cause Pair Extraction**.
 
 
 ## Dependencies
