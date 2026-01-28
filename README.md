@@ -34,7 +34,32 @@ The configurations for the model and training process are stored in `src/config.
 
 ## Data
 The dataset is located in data/dataset. Please follow the instructions in [data/dataset/README.md](data/dataset/README.md) to download the audio and video features, and place them in the data/dataset directory.
-
+## Directory structure
+ECSR-MoE/
+├── data
+│   ├── dataset
+│   │   ├── all_data_pair.txt
+│   │   ├── audio_embedding_6373.npy
+│   │   ├── README.md
+│   │   ├── test.txt
+│   │   ├── train.txt
+│   │   ├── valid.txt
+│   │   ├── video_embedding_4096.npy
+│   │   └── video_id_mapping.npy
+│   ├── preprocessed
+│   │   └── roberta-base.pkl
+│   └── save
+│       └── best_model
+├── evaluate.py
+├── main.py
+├── src
+│   ├── config.yaml
+│   ├── layer.py
+│   ├── loader.py
+│   ├── model.py
+│   ├── tools.py
+│   └── trainer.py
+└── environment.yml
 
 ## Usage
 You can run the following command to train `&` evaluate the model:  
