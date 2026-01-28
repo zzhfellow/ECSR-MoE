@@ -35,6 +35,8 @@ The configurations for the model and training process are stored in `src/config.
 ## Data
 The dataset is located in data/dataset. Please follow the instructions in [data/dataset/README.md](data/dataset/README.md) to download the audio and video features, and place them in the data/dataset directory.
 ## Directory structure
+<pre>
+```
 ECSR-MoE/
 ├── data
 │   ├── dataset
@@ -60,7 +62,8 @@ ECSR-MoE/
 │   ├── tools.py
 │   └── trainer.py
 └── environment.yml
-
+```
+</pre>
 ## Usage
 You can run the following command to train `&` evaluate the model:  
 `python main.py`
