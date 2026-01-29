@@ -25,7 +25,9 @@ conda env create -f environments.txt
 
 Then activate the environment:
 ```bash
-conda activate ecsr 
+conda create -n ECSR python=3.8 -y
+conda activate ECSR
+pip install -r requirements.txt 
 ```
 
 ## Configuration
