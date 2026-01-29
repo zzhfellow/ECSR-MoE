@@ -19,11 +19,7 @@
 
 This project is based on PyTorch and Transformers. 
 You can create the conda environment using the following command:
-```bash
-conda env create -f environments.txt
-```
 
-Then activate the environment:
 ```bash
 conda create -n ECSR python=3.8 -y
 conda activate ECSR
