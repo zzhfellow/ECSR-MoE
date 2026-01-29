@@ -49,7 +49,6 @@ ECSR-MoE/
 │   ├── preprocessed
 │   │   └── roberta-base.pkl
 │   └── save
-│       └── best_model
 ├── evaluate.py
 ├── main.py
 ├── src
@@ -59,7 +58,7 @@ ECSR-MoE/
 │   ├── model.py
 │   ├── tools.py
 │   └── trainer.py
-└── environment.yml
+└── environments.txt
 ```
 </pre>
 ## Usage
